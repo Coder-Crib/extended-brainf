@@ -1,2 +1,2 @@
 # extended-brainf
-An attempt to make brainf--k more useful by extending its syntax.
+An attempt to make brainf--k _a bit_ more useful by extending its syntax.
